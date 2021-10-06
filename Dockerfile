@@ -1,5 +1,5 @@
 FROM nginx:alpine
-COPY dist/ /usr/share/nginx/html/art
+COPY dist/ /usr/share/nginx/html/library
 ADD nginx/default.conf /etc/nginx/conf.d/
 EXPOSE 8081
 WORKDIR /usr/share/nginx/html

@@ -1,5 +1,5 @@
 # 文件的根路径
-BASE_PATH=/home/ubuntu/codehub/codehub-art
+BASE_PATH=/home/ubuntu/codehub/codehub-library
 #docker 镜像/容器名字或者jar名字 这里都命名为这个
 SERVER_NAME=codehub-library
 SERVER_PORT=8082
